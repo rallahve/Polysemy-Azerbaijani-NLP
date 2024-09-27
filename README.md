@@ -1,5 +1,5 @@
 # Polysemy-Azerbaijani-NLP
 
-## Abstract
+## **Abstract**
 
 This research implies the challenging task of Natural Language Processing (NLP) in low-resource languages such as Azerbaijani despite having an average of 25 million speakers worldwide. The paper focuses on different language models differentiating a list of Azerbaijani polysemous words according to their meanings in context. Experimenting clusters with K-Means, the project focuses on the accuracy of three different models: XL-LEXEME, XLM-RoBERTa, BERT- TURKISH. Ultimately being chosen as the most promising model, XL_LEXEME performed an average of 0.61 F1 score and 0.62 accuracy score. This was carried out on 60 polysemous words from online Azerbaijani polysemous words dictionary and 4326 sentences from online Azerbaijani language corpus, “azcorpus”. For the endeavours in future, this project will serve for transfer learning to be further refined, providing annotated phrases, a candidate list of polysemous words, integrated model, editable code, and other valuable insights regarding the NLP problem of other widely spoken but low-resource languages like Azerbaijani.
